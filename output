@@ -1,0 +1,19 @@
+= Start
+@ /lib/i386-linux-gnu/libc.so.6:(_IO_file_doallocate+0x6e)[0xb761784e] + 0x9b4b410 0x1000
+@ /lib/i386-linux-gnu/libc.so.6:(_IO_file_doallocate+0x6e)[0xb761784e] + 0x9b4c418 0x1000
+@ /lib/i386-linux-gnu/libc.so.6:[0xb7625390] - 0x9b4c418
+@ /lib/ld-linux.so.2:[0xb77a9627] + 0x9b4c418 0x88
+@ ./client:[0x8048d91] + 0x9b4c4a8 0x4
+@ ./client:[0x8049209] + 0x9b4c4b8 0xb
+@ ./client:[0x8049262] - 0x9b4c4b8
+@ ./client:[0x8049271] - 0x9b4c4a8
+@ ./client:[0x8048d91] + 0x9b4c4a8 0x6
+@ ./client:[0x8049209] + 0x9b4c4c8 0xd
+@ ./client:[0x8049262] - 0x9b4c4c8
+@ ./client:[0x8049271] - 0x9b4c4a8
+@ ./client:[0x8048d91] + 0x9b4c4a8 0x5
+@ ./client:[0x80491df] - 0x9b4c4a8
+@ /lib/i386-linux-gnu/libc.so.6:(clearenv+0x53)[0xb75e8823] - 0x9b4b008
+@ /lib/i386-linux-gnu/libc.so.6:[0xb769e103] - 0x9b4b078
+@ /lib/i386-linux-gnu/libc.so.6:[0xb769e10b] - 0x9b4b090
+@ /lib/i386-linux-gnu/libc.so.6:[0xb76fdad3] - 0x9b4b410
